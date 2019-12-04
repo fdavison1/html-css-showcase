@@ -1,11 +1,15 @@
 .requirements {
     border: 1px solid #999999;
     width: 500px;
-    margin: 100px auto;
+    margin: 10px auto;
     text-align: left;
     padding: 40px;
     border-radius: 5px;
     box-sizing: border-box;
+    box-shadow: 5px 5px 50px black inset;
+    position: fixed;
+    right: 10px;
+    top: 10px;
 }
 
 h2, h4, p {

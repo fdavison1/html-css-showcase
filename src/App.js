@@ -10,6 +10,20 @@ function App() {
       <Title/>
       <Requirements />
 
+      <div className='box-container'>
+      <div className='box'></div>
+      <div className='box'></div>
+      <div className='box'></div>
+      <div className='box'></div>
+      <div className='box'></div>
+      <div className='box'></div>
+      <div className='box'></div>
+      <div className='box'></div>
+      <div className='box'></div>
+      <div className='box'></div>
+      </div>
+
+
     </div>
   );
 }
